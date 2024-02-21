@@ -1,0 +1,15 @@
+D:\Proyecto\Librerias\bin\Debug\Librerias.exe.config
+D:\Proyecto\Librerias\bin\Debug\Librerias.exe
+D:\Proyecto\Librerias\bin\Debug\Librerias.pdb
+D:\Proyecto\Librerias\bin\Debug\EntityFramework.dll
+D:\Proyecto\Librerias\bin\Debug\EntityFramework.SqlServer.dll
+D:\Proyecto\Librerias\bin\Debug\EntityFramework.xml
+D:\Proyecto\Librerias\bin\Debug\EntityFramework.SqlServer.xml
+D:\Proyecto\Librerias\obj\Debug\Librerias.csproj.AssemblyReference.cache
+D:\Proyecto\Librerias\obj\Debug\Librerias.Form1.resources
+D:\Proyecto\Librerias\obj\Debug\Librerias.Properties.Resources.resources
+D:\Proyecto\Librerias\obj\Debug\Librerias.csproj.GenerateResource.cache
+D:\Proyecto\Librerias\obj\Debug\Librerias.csproj.CoreCompileInputs.cache
+D:\Proyecto\Librerias\obj\Debug\Librerias.csproj.Up2Date
+D:\Proyecto\Librerias\obj\Debug\Librerias.exe
+D:\Proyecto\Librerias\obj\Debug\Librerias.pdb
